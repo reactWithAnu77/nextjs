@@ -13,7 +13,7 @@ const Header = () => {
           <span className={styles.heading_primary_main}>
             Welcome to the world of ReactJS
           </span>
-          <span className={styles.thapatext}>Love with JavaScript</span>
+          <span className={styles.text}>Love with JavaScript</span>
         </h1>
         <a
           href="#"

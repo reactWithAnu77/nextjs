@@ -13,7 +13,7 @@ const Contact = () => {
       <Navbar />
       {/* <h1 style={{ color: "green" }}>Hello World my contact </h1> */}
       <h1>Hello World my contact </h1>
-      <p className="intro">subscribe to my chanle </p>
+      <p className="intro">subscribe to my channel </p>
 
       <style jsx>
         {`
